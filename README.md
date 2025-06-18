@@ -40,5 +40,5 @@ A simple React-based Web3 dashboard that connects to MetaMask and displays Ether
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone [https://github.com/yourusername/wallet-dashboard.git](https://github.com/singhkrishna2003/Wallet-Dashboard](https://github.com/singhkrishna2003/Wallet-Dashboard)](https://github.com/singhkrishna2003/Wallet-Dashboard)
+git clone (https://github.com/singhkrishna2003/Wallet-Dashboard)
 cd wallet-dashboard
