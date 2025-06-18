@@ -28,11 +28,6 @@ A simple React-based Web3 dashboard that connects to MetaMask and displays Ether
 
 
 
-
-> Place your screenshots inside a `/screenshots` folder in the root directory.
-
----
-
 ## 🛠️ Tech Stack
 
 - **React** (Vite)
