@@ -35,16 +35,10 @@ A simple React-based Web3 dashboard that connects to MetaMask and displays Ether
 
 ---
 
-## 🧪 Live Demo
-
-Deployed on Vercel/Netlify 👉 [Live Demo Link](https://your-app.vercel.app)
-
----
-
 ## 🧰 Getting Started
 
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/wallet-dashboard.git
+git clone [https://github.com/yourusername/wallet-dashboard.git](https://github.com/singhkrishna2003/Wallet-Dashboard](https://github.com/singhkrishna2003/Wallet-Dashboard)](https://github.com/singhkrishna2003/Wallet-Dashboard)
 cd wallet-dashboard
